@@ -1,0 +1,12 @@
+{
+  "geode": "v5.8.0",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "hammadus.gd_ai_chat",
+  "name": "GD AI Chat",
+  "version": "v1.0.0",
+  "developer": "hammadus",
+  "description": "AI chat menu for Geometry Dash. Tap the AI button on the main menu to open the chat, type your question and get an answer without leaving the game. Works with any OpenAI-compatible API. By hammadus."
+}
